@@ -1,29 +1,32 @@
 # Site settings
 title: Ghaza Algifari # site title
 description: >- # site description
-  He's writing in Bahasa about photograpgt, web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  i writing in Bahasa about photography, web technology and experience as a journal 
+  for documentation things that i learned, contact me <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/itsghaza/ghazabegins # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Jekyll Klisé # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    I'm from Medan, living in Deli Serdang, Which is relatively close to Medan. The blog for documentation 
+    about my Gallery and Journey. This Website running on Jekyll, 
+    hosting on <a href="https://now.sh" target="_blank" rel="noopener">now.sh</a> and using Theme 
+    Jekyll <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klise</a>, also loves to learning web
+    technology and photography; but i often forgot, that a reason i writing.
   username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  github: itsghaza # github username
+  twitter: itsghaza_ # twitter username
+  facebook: ghazkuu # facebook username
+  email: admin@ghazabegins.si # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://ghazabegins.github.io/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
