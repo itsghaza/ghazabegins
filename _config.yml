@@ -27,7 +27,7 @@ author:
 
 # URL settings
 url: "https://itsghaza.github.io/ghazabegins.github.io/" #
-baseurl:
+baseurl: /ghazabegins.github.io
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
